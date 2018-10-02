@@ -1,2 +1,3 @@
-class Post
+class Post <
+  ActiveRedord::Base
 end
